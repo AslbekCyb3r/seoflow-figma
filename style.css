@@ -1,0 +1,1761 @@
+.responsiv {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.otaheader {
+    height: 950px;
+    margin: 0px auto;
+    background: #6425CB;
+    color: white;
+}
+
+.headerqismi {
+    width: 90%;
+    height: 68px;
+    padding: 20px;
+    margin: 0px auto;
+    align-items: center;
+    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.img1 {
+
+    gap: 20px;
+}
+
+.sekshen1 {
+    align-items: center;
+    gap: 10px;
+}
+
+.rasmchalar4 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-between;
+    gap: 20px;
+
+}
+
+.rasmchalar3 {
+    align-items: start;
+}
+
+.rasm4 {
+
+    gap: 20px;
+}
+
+.contenerota {
+    gap: 20px;
+}
+
+.bodyjon {
+    width: 80%;
+    height: 94px;
+    background-color: rgb(255, 255, 255);
+    margin: 0px auto;
+    border-radius: 10px;
+    color: black;
+}
+
+.bodyjon_ichkarisi {
+    width: 95%;
+    height: 44px;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: 15px;
+    padding-left: 15px;
+
+
+
+
+}
+
+.body_rasm {
+    width: 94px;
+    height: 17px;
+    padding: 0px 0px 1.83px 0.92px;
+    align-items: center;
+}
+
+.homepace {
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    gap: 20px;
+
+
+}
+
+.bodyjon_button {
+    width: 100px;
+    height: 41px;
+    gap: 0px;
+    border-radius: 32px;
+    background: #F4AB00;
+    color: white;
+    border: none;
+}
+
+.shapka3 {
+    width: 80%;
+    height: 530.41px;
+    top: 237px;
+    margin: 0px auto;
+    margin-top: 20px;
+    justify-content: space-between;
+
+}
+
+.seksheen1 {
+    width: 415px;
+    height: auto;
+    font-family: Nunito;
+    font-size: 60px;
+    font-weight: 400;
+    text-align: left;
+
+
+}
+
+.ranguchun {
+    color: #F4AB00;
+
+}
+
+.sekshen2 {
+    width: 409px;
+    height: 136px;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+
+
+}
+
+.shapka3_button {
+    width: 186px;
+    height: 52px;
+    border-radius: 32px;
+    background-color: #F4AB00;
+    color: white;
+    border: none;
+}
+
+.img {
+    width: 100%;
+
+}
+
+.otaheader2 {
+    width: 70%;
+    height: 418px;
+    background-color: rgb(255, 255, 255);
+    margin: 0px auto;
+    box-shadow: 9px 9px 35px 0px #380B711A;
+    position: relative;
+    bottom: 290px;
+    border-radius: 10px;
+
+
+}
+
+.otaheader2:hover {
+    background-color: rgb(32, 146, 146);
+}
+
+.navber {
+    width: 700px;
+    height: 318px;
+
+}
+
+.text1 {
+    width: 284px;
+    height: 30px;
+    font-family: Nunito;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #F4AB00;
+
+}
+
+.text2 {
+    width: 393px;
+    height: 112px;
+    font-family: Nunito;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 56px;
+    text-align: left;
+    color: #2C1258;
+
+}
+
+.text3 {
+    width: 470px;
+    height: 136px;
+    top: 187.41px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+    color: #2C1258;
+
+}
+
+.telegramchala {
+    width: 86px;
+    height: 86px;
+
+}
+
+.text_1 {
+    width: 153px;
+    height: 30px;
+    font-family: Nunito;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #2C1258;
+
+
+}
+
+.text_2 {
+    width: 270px;
+    height: 84px;
+    font-family: Nunito;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: #2C1258;
+
+
+}
+
+.box1 {
+    margin-left: 20px;
+}
+
+.text_3 {
+    width: 243px;
+    height: 30px;
+    font-family: Nunito;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #2C1258;
+}
+
+.card1 {
+    padding: 30px;
+}
+
+.bodyjon_1 {
+    text-align: center;
+    margin: 0px auto;
+
+}
+
+
+/* header2end */
+.header3 {
+    width: 70%;
+    height: 600px;
+    margin: 0px auto;
+    margin-top: -90px;
+
+}
+
+.novutbuk_img {
+    width: 60%;
+    height: 559px;
+    top: 75.41px;
+
+
+}
+
+.sekshen-1 {
+    width: 269px;
+    height: 30px;
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #F4AB00;
+
+}
+
+.sekshen-2 {
+    width: 456px;
+    height: 102px;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.sekshen-2:hover {
+    color: rgb(103, 103, 173);
+}
+
+.yozuvlar-ota {
+    width: 497px;
+    height: 168px;
+
+
+}
+
+.text-1 {
+    width: 181px;
+    height: 28px;
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+
+}
+
+.yozuv7 {
+    width: 248.5px;
+    height: 38px;
+    align-items: center;
+    gap: 15px;
+
+}
+
+.fitishka_1 {
+    width: 12px;
+    height: 12px;
+    top: 9.41px;
+    left: 9px;
+    padding: 0px 0.06px 0px 0px;
+
+
+}
+
+/* header3end */
+.shapka4 {
+    width: 90%;
+    height: 570px;
+    margin: 0px auto;
+
+
+}
+
+.pastki_rasmlar {
+    width: 253px;
+    height: 114px;
+    border-radius: 10px;
+    background: #F6F1FF;
+
+
+
+}
+
+.img_tsxt {
+
+    height: 64px;
+    margin-left: 10px;
+    margin-top: 20px;
+
+
+
+
+}
+
+.foiz {
+    width: 85px;
+    height: 36px;
+    font-family: Nunito;
+    font-size: 28px;
+    font-weight: 400;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.yozuv_2 {
+    width: 81px;
+    height: 8px;
+    font-family: Nunito;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #2C1258;
+    margin: 0px;
+
+}
+
+.sekshen_1 {
+    width: 287px;
+    height: 30px;
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #F4AB00;
+
+
+}
+
+.sekshen_2 {
+    width: 480px;
+    height: 112px;
+    font-family: Nunito;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 56px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #2C1258;
+
+
+}
+
+.sekshen_3 {
+    width: 535px;
+    height: 102px;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #604B83;
+
+}
+
+.textt_1 {
+    width: 85px;
+    height: 20px;
+    font-family: Nunito;
+    font-size: 28px;
+    font-weight: 400;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #2C1258;
+
+
+
+}
+
+.textt_2 {
+    width: 81px;
+    height: 28px;
+    font-family: Nunito;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+
+}
+
+.box {
+    width: 85px;
+    height: 64px;
+    top: 25.13px;
+    left: 110px;
+    text-align: right;
+    margin-left: 20px;
+    align-items: center;
+
+
+
+}
+
+.contener_2 {
+    width: 555px;
+    height: 114px;
+    top: 339px;
+    gap: 20px;
+
+
+
+}
+
+.bola {
+    width: 70%;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px auto;
+
+
+}
+
+.bola:hover {
+    transform: scale(1.1);
+}
+
+.rasm_tolqin {
+    width: 100%;
+
+}
+
+.ota_header5 {
+    width: 100%;
+    height: 862px;
+    top: 2899px;
+    border: 1px solid black;
+
+}
+
+.bolasi {
+    width: 100%;
+    height: 992px;
+    background: #6425CB;
+    margin-top: -4px;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.sekshin1 {
+    width: 302px;
+    height: 112px;
+    font-family: Nunito;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 56px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+
+}
+
+.sekshin1:hover {
+    color: rgb(148, 25, 25);
+}
+
+.sekshin2 {
+    width: 433px;
+    height: 136px;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+
+}
+
+.sekshin2:hover {
+    color: rgb(148, 25, 25);
+    ;
+}
+
+.batnjon {
+    width: 186px;
+    height: 52px;
+    gap: 0px;
+    border-radius: 32px;
+    background: #F4AB00;
+    color: white;
+    border: none;
+
+}
+
+
+.yozuvlar_1 {
+    width: 464px;
+    height: auto;
+    /* padding: 154.69px 31px 156.31px 0px; */
+    margin-left: 10px;
+    margin-top: 50px;
+
+
+}
+
+.rasmotasi {
+    width: 701px;
+    height: 662px;
+
+    gap: 30px;
+
+}
+
+.rasmlar1 {
+    width: 318px;
+    height: 286px;
+
+    border-radius: 10px;
+    background-color: rgb(235, 195, 195);
+    padding: 5px;
+
+}
+
+.rasmlar1:hover {
+    transform: scale(1.1);
+    background-color: aqua;
+
+}
+
+.rasmlar2:hover {
+    transform: scale(1.1);
+    background-color: aqua;
+
+
+}
+
+.yozuvlari {
+    padding: 20px;
+}
+
+.texttt_1 {
+    width: 147px;
+    height: 30px;
+    font-size: 19px;
+    font-weight: 400;
+    color: #2C1258;
+
+}
+
+.texttt_2 {
+    width: 244px;
+    height: 84px;
+    font-family: Nunito;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #2C1258;
+
+}
+
+.rasmlar2 {
+    width: 318px;
+    height: 286px;
+    border-radius: 10px;
+    background-color: rgb(235, 195, 195);
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.pastki-rasmla {
+    width: 100%;
+}
+
+.contener-ota {
+    width: 80%;
+    height: 767.64px;
+    padding-top: 20px;
+    margin: 0px auto;
+}
+
+.tekst {
+    height: 56px;
+    font-family: Nunito;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 56px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.bolachasi {
+    width: 80%;
+    height: 110px;
+    gap: 35px;
+    margin: 0px auto;
+    justify-content: center;
+
+}
+
+.bj {
+    width: 165px;
+    height: 110px;
+    background: #F4AB00;
+    box-shadow: 0px 20px 60px 0px #0000000D;
+
+
+}
+
+.card_1 {
+    padding-top: 20px;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.card_1:hover {
+    transform: scale(1.1);
+    background-color: aqua;
+}
+
+.tortburchak1 {
+    width: 25px;
+    height: 25px;
+
+}
+
+.bjj {
+    width: 165px;
+    height: 110px;
+    background: #ffc1c1;
+
+}
+
+.navberota {
+    width: 80%;
+    height: 481.64px;
+    margin: 0px auto;
+    margin-top: 30px;
+    justify-content: space-between;
+
+}
+
+.sekshn_2 {
+    width: 420px;
+    height: 136px;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #604B83;
+
+}
+
+.fitishkacha {
+    width: 15px;
+    height: 15px;
+    top: 7.5px;
+    left: 8px;
+    padding: 0.06px 0.17px 0.01px 0.09px;
+    align-items: center;
+
+}
+
+.fitishkalar {
+    align-items: center;
+    gap: 5px;
+}
+
+.batnn {
+    width: 186px;
+    height: 52px;
+    border-radius: 32px;
+    background: #F4AB00;
+    color: white;
+    border: none;
+
+}
+
+.pastkirasm {
+    width: 100%;
+    height: 115px;
+
+
+
+}
+
+.header7ohta {
+    width: 100%;
+    height: 700px;
+    background: #421B81;
+    margin-top: 20px;
+
+
+
+
+}
+
+.header_text {
+    width: 425px;
+    height: 112px;
+    font-family: Nunito;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 56px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgb(209, 0, 0);
+
+}
+
+.rang {
+    font-family: Nunito;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 56px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #F4AB00;
+
+}
+
+.header_2tekst {
+    width: 382px;
+    height: 9px;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 9px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+
+}
+
+.header-tekstlar {
+    justify-content: center;
+    text-align: center;
+}
+
+.boxx {
+    width: 75%;
+    height: 204px;
+    margin-top: 20px;
+    margin: 0px auto;
+
+}
+
+.orqafon {
+    width: 266.63px;
+    height: 204px;
+    background-color: rgb(180, 118, 118);
+
+}
+
+.tekst_1 {
+    width: 162px;
+    height: 30px;
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 40px;
+    color: white;
+
+}
+
+.tekst:hover {
+    transform: scale(1.1);
+    color: red;
+}
+
+.sekshn_2:hover {
+    color: red;
+}
+
+p:hover {
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+.tekst_2 {
+    width: 245px;
+    height: 84px;
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 400;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+
+.tekstlaa {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+
+}
+
+.chiziqq {
+    width: 267px;
+    height: 2px;
+    margin-top: 50px;
+
+}
+
+.rasmmmpastki {
+    width: 100%;
+}
+
+.header8 {
+    width: 70%;
+    height: 552px;
+    top: 5689.52px;
+    margin: 0px auto;
+
+
+}
+
+.header_text {
+    width: 311px;
+    height: auto;
+    color: #fefeff;
+
+}
+
+.header_text1 {
+    width: 341px;
+    height: 34px;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 400;
+    color: #2C1258;
+
+
+}
+
+.card3_1:hover {
+    transform: scale(1.1);
+}
+
+.orqafonn:hover {
+    transform: scale(1.1);
+}
+
+.header_tekslar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.navber-ichi {
+    width: 80%;
+    height: 232px;
+    top: 160px;
+    justify-content: center;
+    gap: 80px;
+    padding: 10px 10px;
+    justify-content: space-around;
+    margin: 0px auto;
+
+
+
+}
+
+.cardt1 {
+    gap: 10px;
+}
+
+.bosh1 {
+    width: 86px;
+    height: 86px;
+
+
+}
+
+.bolasii {
+    width: 1094.41px;
+    height: 232px;
+    border: 1px solid rgb(255, 0, 0);
+
+}
+
+.boshtekst {
+    width: 126px;
+    height: 21px;
+    font-family: Nunito;
+    font-size: 19px;
+    font-weight: 400;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #2C1258;
+
+
+
+}
+
+.boshtekst1 {
+    width: auto;
+    height: 4px;
+    font-family: Nunito;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: left;
+    color: #604B83;
+
+
+
+
+}
+
+.otasi {
+    width: 100%;
+}
+
+/* header8end */
+.otadiv {
+    width: 100%;
+    height: 1053px;
+    border: 1px solid #6425CB;
+    margin: 0px auto;
+    background: #6425CB;
+    margin-top: -4px;
+
+
+}
+
+.tolqincha {
+    width: 100%;
+}
+
+.bodyjon-1 {
+    width: 1160px;
+    height: 873px;
+    margin: 0px auto;
+    margin-top: 20px;
+
+}
+
+.header2text {
+    text-align: center;
+    color: white;
+}
+
+.textt1 {
+    width: auto;
+    height: 56px;
+    font-family: Nunito;
+    font-size: 38px;
+    font-weight: 400;
+
+
+}
+
+.textt2 {
+    width: auto;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 400;
+
+
+}
+
+.card3_1 {
+    width: 360px;
+    height: 710px;
+    gap: 0px;
+    border-radius: 15px;
+    box-shadow: 0px 15px 30px 0px #FFFFFF0A;
+    background-color: white;
+    margin-top: 20px;
+
+}
+
+.silver_text {
+    width: 58px;
+    height: 1px;
+    padding-top: 20px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 22px;
+    font-weight: 400;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #F4AB00;
+
+
+}
+
+.son {
+    width: 70px;
+    height: 10px;
+    padding-left: 50px;
+    font-family: Nunito;
+    font-size: 50px;
+    font-weight: 400;
+    color: #5B25B3;
+
+
+}
+
+.pulchaa {
+    width: 17px;
+    height: 26px;
+
+
+}
+
+.pulcha_text {
+    width: 200px;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 70px;
+}
+
+.fitishkalarr {
+    width: 292px;
+    height: 384px;
+    color: #604B83;
+    margin: 0 auto;
+
+}
+
+.fitishkaaa {
+    width: 12px;
+    height: 12px;
+
+
+}
+
+.fitishka1 {
+    align-items: center;
+    gap: 10px;
+}
+
+.buttonuchun {
+    width: 168px;
+    height: 54px;
+    border-radius: 32px;
+
+
+
+}
+
+.otabutton {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.bodyota {
+    gap: 30px;
+}
+
+.qizilrasm {
+    width: 90px;
+    height: 21px;
+
+
+}
+
+.textheader {
+    height: 150px;
+}
+
+.son1 {
+    width: 70px;
+    height: 25px;
+    padding-left: 50px;
+    font-family: Nunito;
+    font-weight: 400;
+    color: #5B25B3;
+}
+
+.buttonuchun2 {
+    width: 168px;
+    height: 54px;
+    border-radius: 32px;
+    background: #F4AB00;
+    color: white;
+    border: none;
+}
+
+.otaheader10 {
+    width: 1160px;
+    height: 527px;
+    margin: 0 auto;
+
+}
+
+.texxt1 {
+    width: 380px;
+    height: 56px;
+    margin: 0 auto;
+    font-family: Nunito;
+    font-size: 42px;
+    font-weight: 400;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #2C1258;
+
+}
+
+.texxt2 {
+    width: 703px;
+    height: 143px;
+    font-family: Nunito;
+    font-size: 24px;
+    font-weight: 400;
+    color: #604B83;
+
+
+}
+
+.header-text {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.vergul {
+    width: 34px;
+    height: 18px;
+    margin-left: 20px;
+    margin: 0 auto;
+
+
+}
+
+.imgtext {
+    text-align: center;
+}
+
+.textt-1 {
+    width: auto;
+    height: 20px;
+    font-family: Nunito;
+    font-size: 19px;
+    font-weight: 400;
+    color: #604B83;
+
+
+
+}
+
+.textt-2 {
+    width: auto;
+    height: 24px;
+    font-family: Nunito;
+    font-size: 15px;
+    font-weight: 400;
+    color: #604B83;
+
+
+
+}
+
+.pastki-div {
+    width: auto;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.tortburchakcha {
+    width: 7px;
+    height: 7px;
+    background: #22222266;
+
+}
+
+.tortburchakcha1 {
+    width: 7px;
+    height: 7px;
+    background: #222222;
+
+
+}
+
+.chiziq {
+    width: auto;
+    height: 1px;
+    background: #E9E9E9;
+
+
+}
+
+.otaqismi {
+    width: 1160px;
+    height: 251px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+
+}
+
+.img7 {
+    display: flex;
+    gap: 100px;
+}
+
+.img7:hover {
+    transform: scale(1.1);
+}
+
+.otaheader12 {
+    width: 100%;
+    height: 974px;
+    border: 1px solid #E5D8FA;
+    ;
+    /*ochiraman*/
+    background: #E5D8FA;
+    margin: 0 auto;
+    margin-top: -4px;
+
+
+}
+
+.pushtii {
+    width: 100%;
+}
+
+.bolasi1 {
+    width: 1160px;
+    height: 744px;
+    margin: 0 auto;
+    margin: 100px auto;
+
+}
+
+.skeshiin1 {
+    text-align: center;
+}
+
+.sekshiin11 {
+    width: auto;
+    height: 36px;
+    font-family: Nunito;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 56px;
+    color: #2C1258;
+
+
+}
+
+.sekshiin12 {
+    width: auto;
+    height: 24px;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 34px;
+    color: #604B83;
+
+}
+
+.card3talik {
+    width: 1160px;
+    height: 480px;
+    gap: 10px;
+}
+
+.pastki-rasm {
+    width: 286px;
+    height: 92px;
+    top: 288.08px;
+    padding: 30px 45px 62.08px 46px;
+    background-color: white;
+}
+
+.tortburchak1 {
+    width: 4px;
+    height: 4px;
+    background: #246CFF66;
+
+
+}
+
+
+
+.imgtext1 {
+    width: auto;
+    height: 12px;
+    font-family: Nunito;
+    font-size: 22px;
+    font-weight: 400;
+    color: #604B83;
+    margin: 0 auto;
+
+
+}
+
+.imgtext_2 {
+    width: 285px;
+    height: 68px;
+    font-family: Nunito;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: center;
+    align-items: center;
+    color: #604B83;
+
+}
+
+.imggg {
+    height: 30px;
+    margin: 0 auto;
+    gap: 10px;
+    margin-top: 5px;
+    align-items: baseline;
+}
+
+.batn {
+    width: 179px;
+    height: 54px;
+    border-radius: 32px;
+    margin: 0 auto;
+    background: #E5D8FA;
+    border: 2px solid #2C1258
+}
+
+.batnnn {
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.pastkisahifa {
+    width: 100%;
+    height: 310px;
+    background: #2C1258;
+}
+
+.textlarr {
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+
+}
+
+.pushti22 {
+    width: 100%;
+    position: relative;
+    z-index: 0;
+    height: 115px;
+}
+
+.cardlar3 {
+    width: 80%;
+    height: 283px;
+    gap: 50px;
+    justify-content: center;
+    margin: 0 auto;
+    position: relative;
+    z-index: 2;
+    bottom: 200px;
+}
+
+.orqafonn {
+    width: 367px;
+    height: auto;
+    border-radius: 16px;
+    box-shadow: 0px 15px 30px 0px #00000012;
+    background-color: #FFFFFF;
+
+
+
+}
+
+.adress {
+    width: 77px;
+    height: 30px;
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: 400;
+    color: #2C1258;
+
+}
+
+.adresyozuv {
+    width: 199px;
+    height: auto;
+    font-family: Nunito;
+    font-size: 15px;
+    font-weight: 400;
+    color: #2C1258;
+
+
+}
+
+.rrr {
+    width: 100px;
+    margin: 0 auto;
+}
+
+.adress2 {
+    width: 77px;
+    height: 30px;
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: 400;
+    color: #2C1258;
+    margin-left: 10px;
+}
+
+.rrrr {
+    width: 130px;
+    margin: 0 auto;
+}
+
+.chiyozuv2 {
+    width: 200px;
+    margin: 0 auto;
+}
+
+.xaritatext {
+    margin-top: 50px;
+}
+
+.for_index {
+    position: relative;
+    z-index: 1;
+}
+
+.adress1 {
+    width: auto;
+    height: 38px;
+    font-family: Nunito;
+    font-size: 15px;
+    font-weight: 400;
+    color: #604B83;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.adresyozuv3 {
+    width: 199px;
+    height: auto;
+    font-family: Nunito;
+    font-size: 15px;
+    font-weight: 400;
+    color: #2C1258;
+    margin-left: 20px;
+
+}
+
+.rrr3 {
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.header13 {
+    width: 70%;
+    height: 709px;
+    top: 383px;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 600px;
+
+
+
+
+}
+
+.rasmnovutbuukli {
+    width: 496px;
+    height: 709px;
+
+}
+
+.navberyozuv_2 {
+    width: 512px;
+    height: 102px;
+    color: #2C1258;
+
+
+}
+
+.input1 {
+    width: 555px;
+    height: 77px;
+
+
+}
+
+.input_1 {
+
+    width: 255px;
+    height: 52px;
+    border-radius: 5px;
+    border: 1px;
+    opacity: 0px;
+
+}
+
+.input2 {
+    width: 533px;
+    height: 130px;
+    top: 230.73px;
+    gap: 0px;
+    border-radius: 5px;
+    border: 1px;
+
+
+}
+
+.input_3 {
+    width: 533px;
+    height: 130px;
+    border-radius: 5px;
+    border: 1px;
+
+
+}
+
+.inputbutton {
+    width: 159px;
+    height: 57px;
+    top: 385.73px;
+    border-radius: 32px;
+    background: #F4AB00;
+    color: white;
+    border: none;
+    margin-top: 20px;
+
+}
+
+.navber_header1 {
+    width: 254px;
+    height: 56px;
+    font-family: Nunito;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 56px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #2C1258;
+
+
+}
+
+.header14 {
+    width: 1440px;
+    height: 429px;
+    margin: 0 auto;
+    margin-top: 80px;
+    gap: 60px;
+
+}
+
+.header14text1 {
+    width: 205px;
+    height: 84px;
+    font-family: Nunito;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #604B83;
+
+}
+
+.gudok {
+    width: 15px;
+    height: 23px;
+
+
+}
+
+.gudoktext {
+    align-items: center;
+    gap: 10px;
+}
+
+.rasmlar3 {
+    gap: 10px;
+}
+
+.yozuv7 {
+    color: #2C1258;
+    gap: 50px;
+
+}
+
+.yozuvimg {
+    margin-top: 20px;
+}
+
+.theend {
+    width: 1160px;
+    height: 26px;
+    justify-content: space-between;
+    color: #604B83;
+
+
+}
+
+
+
+
+
+
+p:hover {
+    transform: scale(1.1);
+    color: rgb(255, 4, 4);
+}
+
+.textend {
+    width: 1160px;
+    height: 26px;
+
+}
+
+.rangg {
+    color: #F4AB00;
+
+}
